@@ -26,14 +26,14 @@
       <file leaf-file-name="Boostrap.html" pinned="false" current-in-tab="true">
         <entry file="file://D:/bootstrap/bootstrap-3.3.5-dist/Boostrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="190">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#14795#14801#0" expanded="true" />
-                <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+                <element signature="e#14799#14805#0" expanded="true" />
+                <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
               </folding>
             </state>
           </provider>
@@ -205,15 +205,15 @@
       <workItem from="1471943152887" duration="1177000" />
       <workItem from="1472000786735" duration="644000" />
       <workItem from="1472005113416" duration="3422000" />
-      <workItem from="1472086507373" duration="15539000" />
+      <workItem from="1472086507373" duration="16213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36267000" />
+    <option name="totallyTimeSpent" value="36941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -260,8 +260,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -293,8 +293,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -315,8 +315,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -329,8 +329,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -343,8 +343,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -357,29 +357,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Boostrap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/bootstrap/bootstrap-3.3.5-dist/Boostrap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -399,8 +378,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -420,8 +399,29 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boostrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bootstrap/bootstrap-3.3.5-dist/Boostrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
@@ -454,14 +454,14 @@
     </entry>
     <entry file="file://D:/bootstrap/bootstrap-3.3.5-dist/Boostrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="190">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14795#14801#0" expanded="true" />
-            <marker date="1472117889563" expanded="false" signature="14882:15751" ph="..." />
+            <element signature="e#14799#14805#0" expanded="true" />
+            <marker date="1472118514772" expanded="false" signature="14886:15755" ph="..." />
           </folding>
         </state>
       </provider>
