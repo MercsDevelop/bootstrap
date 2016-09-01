@@ -36,15 +36,20 @@
             text-align: center;
         }
         .divider {
-            margin: 40px 0;
+            margin: 40px auto;
+        }
+        #biaoqian {
+            margin-bottom: 60px;
+            margin-left: auto;
+            margin-right: auto;
         }
         /*FOOTER*/
         .foot-wrap{
-            background-color: #333333;
+            background-color: #000000;
             margin-top:80px;
         }
         .row-content h3 {
-            color: #CECECE;
+            color: lightgray;
             font-size: 16px;
             font-weight: 300;
             line-height: 16px;
@@ -88,6 +93,10 @@
         /*}*/
         /*}*/
         /*}*/
+        #tagul {
+            margin-left: auto;
+            margin-right: auto;
+        }
     </style>
     <!--&lt;!&ndash;<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">&ndash;&gt;-->
 </head>
@@ -192,54 +201,14 @@
     </div>
     <hr class="divider">
     <!--标签页-->
-    <div>
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" role="tablist" id="tab-list">
-            <li role="presentation" class="active"><a href="#character1" aria-controls="home" role="tab" data-toggle="tab">游戏</a></li>
-            <li role="presentation"><a href="#character2" aria-controls="profile" role="tab" data-toggle="tab">应用</a></li>
-            <li role="presentation"><a href="#character3" aria-controls="messages" role="tab" data-toggle="tab">蓝牙传输</a></li>
-            <li role="presentation"><a href="#character4" aria-controls="settings" role="tab" data-toggle="tab">智能电视</a></li>
-        </ul>
-        <!-- Tab panes -->
-        <div class="tab-content">
-            <div role="tabpanel" class="tab-pane active" id="character1">
-                <div class="col-md-7">
-                    <h2 class="feature-heading">Google Chrome<span class="text-muted">使用最广的浏览器</span></h2>
-                    <p class="lead">Google（中文名：谷歌），是一家美国的跨国科技企业，致力于互联网搜索、云计算、广告技术等领域，开发并提供大量基于互联网的产品与服务，其主要利润来自于AdWords等广告服务。Google由当时在斯坦福大学攻读理工博士的拉里·佩奇和谢尔盖·布卢姆共同创建，因此两人也被称为“Google Guys”。</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="img-circle" src="D:\webstorm\images\chrome-logo.jpg" alt="Google Chrome">
-                </div>
-            </div>
-            <div role="tabpanel" class="tab-pane" id="character2">
-                <div class="col-md-7">
-                    <h2 class="feature-heading">Google Chrome<span class="text-muted">使用最广的浏览器</span></h2>
-                    <p class="lead">Mozilla Firefox，中文俗称“火狐”（正式缩写为Fx或fx，非正式缩写为FF），是一个自由及开放源代码网页浏览器，使用Gecko排版引擎，支持多种操作系统，如Windows、Mac OS X及GNU/Linux等。而普通 Firefox 的升级周期为 6 周。</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="img-circle" src="D:\webstorm\images\firefox-logo.jpg" alt="firefox">
-                </div>
-            </div>
-            <div role="tabpanel" class="tab-pane" id="character3">
-                <div class="col-md-7">
-                    <h2 class="feature-heading">Google Chrome<span class="text-muted">使用最广的浏览器</span></h2>
-                    <p class="lead">Internet Explorer，是微软公司推出的一款网页浏览器。原称Microsoft Internet Explorer(6版本以前)和Windows Internet Explorer(7、8、9、10、11版本)，简称IE。在IE7以前，中文直译为“网络探路者”，但在IE7以后官方便直接俗称"IE浏览器"。</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="img-circle" src="D:\webstorm\images\ie-logo.jpg" alt="IE">
-                </div>
-            </div>
-            <div role="tabpanel" class="tab-pane" id="character4">
-                <div class="col-md-7">
-                    <h2 class="feature-heading">Google Chrome<span class="text-muted">使用最广的浏览器</span></h2>
-                    <p class="lead">Opera浏览器，是一款挪威Opera Software ASA公司制作的支持多页面标签式浏览的网络浏览器，是跨平台浏览器可以在Windows、Mac和Linux三个操作系统平台上运行。Opera浏览器创始于1995年4月。2016.1.25日最新版本34.0（34.0.2036.50）。</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="img-circle" src="D:\webstorm\images\opera-logo.jpg" alt="Opera">
-                </div>
-            </div>
-        </div>
-    </div>
+</div><br><br><br>
+
+<!--tagul-->
+<div style="width: 400px; height: 400px; padding-bottom: 30px;" id="tagul">
+    <script src="http://cdn.tagul.com/embed/t88rbjgshe50"></script>
+    <!-- Please don't remove attribution to Tagul.com -->
+    <div style="display: table; margin: 0 auto;"><a href="http://tagul.com/"></a></div>
+    <hr class="divider">
 </div>
 <!--FOOTER-->
 <footer class="container-fluid foot-wrap">
@@ -249,14 +218,14 @@
             <div class="row-content col-lg-2 col-sm-4 col-xs-6">
                 <h3>Subscribe</h3>
                 <ul>
-                    <li><a href="#">Newsletter</a></li>
-                    <li><a href="#">RSS feed</a></li>
-                    <li><a href="#">RSS to Email</a></li>
-                    <li><a href="#">Product Hunt</a></li>
-                    <li><a href="#">Twitter</a></li>
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">Pinterest</a></li>
-                    <li><a href="#">Google+</a></li>
+                    <h5><a href="#">Newsletter</a></h5>
+                    <h5><a href="#">RSS feed</a></h5>
+                    <h5><a href="#">RSS to Email</a></h5>
+                    <h5><a href="#">Product Hunt</a></h5>
+                    <h5><a href="#">Twitter</a></h5>
+                    <h5><a href="#">Facebook</a></h5>
+                    <h5><a href="#">Pinterest</a></h5>
+                    <h5><a href="#">Google+</a></h5>
                 </ul>
             </div>
             <div class="row-content col-lg-2 col-sm-4 col-xs-6">
@@ -282,7 +251,6 @@
                     <li><a href="#">Roadmap</a></li>
                 </ul>
             </div>
-
             <div class="row-content col-lg-2 col-sm-4 col-xs-6">
                 <h3>RESOURCES</h3>
                 <ul>
@@ -293,7 +261,6 @@
                     <li><a href="#">Round Ups</a></li>
                     <li><a href="#">Tutorials</a></li>
                 </ul>
-
             </div>
             <div class="row-content col-lg-2 col-sm-4 col-xs-6">
                 <h3>TRENDING</h3>
@@ -318,35 +285,8 @@
                 </ul>
             </div>
         </div><!--/.row -->
-    </div><!--/.container--
+    </div><br><br><br><!--/.container--
     <!-- 社交图标列表，其中图标采用的是Font Awesome图标字体库-->
-    <ul class="social">
-        <li>
-            <a href="#" title="Twitter Profile">
-                <span class="icon fa fa-twitter"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#" title="Facebook Page">
-                <span class="icon fa fa-facebook"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#" title="LinkedIn Profile">
-                <span class="icon fa fa-linkedin"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#" title="Goole+ Profile">
-                <span class="icon fa fa-google"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#" title="Github Profile">
-                <span class="icon fa fa-github"></span>
-            </a>
-        </li>
-    </ul>
     <p align="center" style="margin-top: 20px;color:#FFFFFF;">
         Copyright &copy;2016 PURE SPORTS
     </p>
